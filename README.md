@@ -43,8 +43,7 @@ mod_manifest.json 例如下：(来自 Alchyr ModTemplate)
   {
       "id": "STS2-RitsuLib",
       "min_version": "0.2.28"
-    }
-  ],
+  },
   "affects_gameplay": true,
   "min_game_version": "0.105.0"
 }
