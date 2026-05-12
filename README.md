@@ -40,8 +40,13 @@ mod_manifest.json 例如下：(来自 Alchyr ModTemplate)
   "version": "v0.0.0",
   "has_pck": true,
   "has_dll": true,
-  "dependencies": ["BaseLib"],
-  "affects_gameplay": true
+  {
+      "id": "STS2-RitsuLib",
+      "min_version": "0.2.28"
+    }
+  ],
+  "affects_gameplay": true,
+  "min_game_version": "0.105.0"
 }
 ```
 
