@@ -266,7 +266,7 @@ saves文件夹可能有下列文件：
 推荐参考 Alchyr 的样板，一键构建：
 * **[ModTemplate-StS2](https://github.com/Alchyr/ModTemplate-StS2)**：一个开箱即用的尖塔2 C# Mod 工程模板，内置构建 csproj 脚本和基础目录结构，克隆后改改就能上手。
 * **[BaseLib-StS2](https://github.com/Alchyr/BaseLib-StS2)**：类似塔1 BaseMod+stslib 的基础库。提供一个简易的设置面板，一些基础库，反射发现钩子 和一大堆样板 buff 和 keyword 等。
-* **[STS2-RitsuLib](https://github.com/BAKAOLC/STS2-RitsuLib/**：一个更重、更显式的基础库。提供了非常丰富的设置面板。大多数钩子倾向于多让您集中手动注册各种数据。也没有把 Keyword 塞进原生游戏而是分开单独判断。提供了丰富的 fmod 支持。
+* **[STS2-RitsuLib](https://github.com/BAKAOLC/STS2-RitsuLib/)**：一个更重、更显式的基础库。提供了非常丰富但是手柄支持较差的设置面板。大多数钩子倾向于多让您集中手动注册各种数据，可以控制极端情况下的注册顺序。也没有把 Keyword 塞进原生游戏而是分开单独判断。提供了丰富的 fmod 支持。
 
 ## 工具与反编译
 
